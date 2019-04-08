@@ -1,5 +1,9 @@
 # アーキテクチャ
 
+### [Web API The Good Parts](https://www.amazon.co.jp/dp/4873116864/ref=cm_sw_r_tw_dp_U_x_-4XKCbZHTFNQH)
+要点がしっかりまとめられていてわかりやすい。  
+REST APIを作成するベストプラクティスがまとまっている。（初版は2014年。）
+
 ### [エリック・エヴァンスのドメイン駆動設計](https://www.amazon.co.jp/dp/4798121967/ref=cm_sw_r_tw_dp_U_x_BjqFCb2YTKH76 )
 ムズイ。  
 先にもちこちゃんの大冒険や実践ドメイン駆動設計を呼んでおいた方が良い。
