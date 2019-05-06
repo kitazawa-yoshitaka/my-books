@@ -1,5 +1,10 @@
 # アーキテクチャ
 
+### [入門 監視](https://www.amazon.co.jp/dp/4873118646/ref=cm_sw_r_tw_dp_U_x_tQ8ZCbVVRHNH0)
+2019年の時代に合った監視のデザインパターンを記した書籍。  
+監視系のSaaSサービスはお手軽に入れられるので、入れてないならまず入れよう。  
+アラートは「誰かを叩き起こすためのアラート」と「FYIとしてのアラート」を明確に分けて設計しよう。  
+
 ### [Web API The Good Parts](https://www.amazon.co.jp/dp/4873116864/ref=cm_sw_r_tw_dp_U_x_-4XKCbZHTFNQH)
 要点がしっかりまとめられていてわかりやすい。  
 REST APIを作成するベストプラクティスがまとまっている。（初版は2014年。）
